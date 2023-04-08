@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+Saved/Logs/SoccerGame.log
+Saved/Config/WindowsEditor/Engine.ini
+*.ini
+Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+Intermediate/CachedAssetRegistry.bin
+*.log
+Intermediate/CachedAssetRegistry.bin
